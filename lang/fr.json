@@ -3,19 +3,19 @@
       "title":"Menu d'aide",
       "commands":{
          "help":"Afficher le menu d'aide",
-         "config":"Modifier les magasins et changer la langue du bot",
-         "get":"Afficher les jeux gratuits du moment",
+         "config":"Modifier les plateformes et changer la langue du bot",
+         "get":"Afficher les jeux gratuits du momment",
          "setup":"Gérer les permissions du Free Games Bot (seulement pour les personnes ayants la permission d'administrateur)",
          "stop":"Arrêter les notifications du Free Games Bot (seulement pour les personnes ayants la permission d'administrateur)",
          "role":"Assigner un rôle que le bot mentionnera (seulement pour les personnes ayants la permission d'administrateur)"
       },
       "support":{
-         "name":"💎 Si vous voulez nous aider avec le développement du bot",
+         "name":"💎 Si vous souhaitez nous aider avec le développement du bot",
          "value":"   Vous pouvez voter en cliquant [ici](https://top.gg/bot/698117737175580692)"
       },
       "discord":{
          "name":"🔗 Vous pouvez aussi nous rejoindre sur notre serveur Discord",
-         "value":"  Vous pouvez rejoindre ici [ici](https://discord.gg/wzF9qfC)"
+         "value":"  Vous pouvez rejoindre en cliquant ici [ici](https://discord.gg/wzF9qfC)"
       }
    },
    "commands":{
@@ -23,12 +23,12 @@
       "not_setup":"Vous devez me configurer avant d'utiliser cette commande !",
       "no_args":"Cette commande nécessite des arguments ! (Paramètres)",
       "setup":{
-         "updated":"La chaine d'annonce a été mise à jour avec succès !",
+         "updated":"Le salon d'annonce a été mise à jour avec succès !",
          "success1":"Vous êtes prêt, utilisez",
          "success2":"pour tester les annonces."
       },
       "stop":{
-         "success":"Très bien, j'arrête de donner des informations !"
+         "success":"Très bien, j'arrête d'envoyer les notifications !"
       },
       "role":{
          "tag_a_role":"Vous devez choisir le rôle que vous souhaitez attribuer !",
@@ -38,7 +38,7 @@
       },
       "config":{
          "title":"Configuration du Free Games Bot",
-         "description":"Cliquez sur les boutons figurant sous ce message pour changer les magasins ou la langue.",
+         "description":"Cliquez sur les boutons figurants sous ce message pour changer les plateformes ou la langue.",
          "toggle":"Cliquez sur les options que vous voulez changer.",
          "language":"Cliquez sur la langue que le robot utilisera."
       },
@@ -59,7 +59,7 @@
       "state":"état",
       "support_us":{
          "name":"Aidez nous",
-         "value":"[Rejoignez notre serveur Discord](https://discordapp.com/invite/wzF9qfC)\n[Avoir le bot](https://top.gg/bot/698117737175580692)"
+         "value":"[Rejoignez notre serveur Discord](https://discordapp.com/invite/wzF9qfC)\n[Inviter le bot](https://top.gg/bot/698117737175580692)"
       },
       "footer":"Cliquez sur le nom pour aller sur la page du magasin !"
    }
